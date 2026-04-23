@@ -14,8 +14,6 @@ license: mit
 # 🌸 BloomID: Flower Species Recognition
 This app uses Deep Learning to identify flowers. Upload an image of a Daisy, Dandelion, Rose, Sunflower, or Tulip!
 
-# 🌸 BloomID: Flower Species Recognition
-
 This repository contains a **Computer Vision** application deployed on Hugging Face Spaces that uses a **Deep Learning** model to classify flower species.
 
 ## 🚀 Project Overview
